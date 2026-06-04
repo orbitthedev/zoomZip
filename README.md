@@ -1,2 +1,2 @@
 # zoomZip
-A fast rust zip extractor
+A fast rust based zip extractor
