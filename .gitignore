@@ -1,14 +1,8 @@
-# Rust build
+# build artifacts
 target/
 
-# OS / junk
-.DS_Store
-*.exe
+# test files
+*.zip
 
-# Your test / runtime junk
-output/
-test/
-test.zip
-Clickteam Fusion 2.5/
-zZip1.00/
-zoomZip/
+# exports / junk folders
+zoomZip(gh upload)/
