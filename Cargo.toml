@@ -1,0 +1,8 @@
+[package]
+name = "zoomZip"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+zip = "2"
+rayon = "1"
